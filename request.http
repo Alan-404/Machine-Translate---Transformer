@@ -1,0 +1,7 @@
+#%%
+POST http://localhost:8000/translate
+Content-Type: application/json
+
+{
+    "input": "friend"
+}
