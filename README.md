@@ -24,4 +24,4 @@
 <p>FastAPI 0.79.1</p>
 <p>Uvicorn 0.18.2</p>
 <strong>Install Libraries</strong>
-<p>pip install -r requirements.txt</p>
+<p>`pip install -r requirements.txt`</p>
