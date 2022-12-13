@@ -40,7 +40,7 @@ pip install -r requirements.txt
         <td>yêu</td>
     </tr>
 </table>
-<italic>You can see more in datasets folder</italic>
+<italic>You can see more in <a href="https://github.com/Alan-404/Transformer-Architecture-Tensorflow-Implement/tree/master/datasets">datasets folder</a></italic>
 <hr />
 
 <h2>3. </h2>
