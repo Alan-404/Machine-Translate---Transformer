@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Specialized Essay Report</h1>
-    <img style="width:200px; height: 200px;" src="https://dongphucvina.vn/wp-content/uploads/2022/09/Logo-DH-Su-Pham-Ky-Thuat-TP-Ho-Chi-Minh-HCMUTE-623x800.webp" />
+    <img style="width:150px; height: 200px;" src="https://dongphucvina.vn/wp-content/uploads/2022/09/Logo-DH-Su-Pham-Ky-Thuat-TP-Ho-Chi-Minh-HCMUTE-623x800.webp" />
 </div>
 <hr />
 
