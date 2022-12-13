@@ -40,6 +40,7 @@ pip install -r requirements.txt
         <td>yêu</td>
     </tr>
 </table>
-
+<italic>You can see more in datasets folder</italic>
+<hr />
 
 <h2>3. </h2>
