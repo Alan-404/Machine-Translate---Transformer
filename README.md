@@ -15,7 +15,7 @@
 <hr />
 
 <h2>Setup Environment</h2>
-<strong>Libraries</strong>
+<strong>Libraries: </strong>
 <p>Python 3.10</p>
 <p>Tensorflow 2.9.1</p>
 <p>Keras 2.9.0</p>
@@ -23,5 +23,20 @@
 <p>Numpy 1.22.4</p>
 <p>FastAPI 0.79.1</p>
 <p>Uvicorn 0.18.2</p>
-<strong>Install Libraries</strong>
-`pip install -r requirements.txt`
+<strong>Install Libraries: </strong><br/>
+pip install -r requirements.txt
+
+<hr />
+<h2>Setup Dataset</h2>
+<p>We need to have 2 file about input language and target language for training model</p>
+<p>For Example: </p>
+<table>
+    <tr>
+        <td>input_language.txt</td>
+        <td>target_language.txt</td>
+    </tr>
+    <tr>
+        <td>love</td>
+        <td>yêu</td>
+    </tr>
+</table>
