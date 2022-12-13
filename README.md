@@ -2,7 +2,7 @@
     <h1>Specialized Essay Report</h1>
 </div>
 <hr />
-<p>Research About Transformer Architecture and Build a Simple Application</p>
-<p>Instructor: TS. Trần Nhật Quang</p>
-<p>Student: Nguyễn Đức Trí</p>
-<p>ID: 19110302</p>
+<p><strong>Topic: </strong>Research About Transformer Architecture and Build a Simple Application</p>
+<p><strong>Intructor: </strong> TS. Trần Nhật Quang</p>
+<p><strong>Student: </strong> Nguyễn Đức Trí</p>
+<p><strong>ID: </strong> 19110302</p>
