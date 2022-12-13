@@ -31,12 +31,16 @@ pip install -r requirements.txt
 <p>We need to have 2 file about input language and target language for training model</p>
 <p>For Example: </p>
 <table>
-    <tr>
+    <th>
         <td>input_language.txt</td>
         <td>target_language.txt</td>
-    </tr>
+    </td>
     <tr>
         <td>love</td>
         <td>yêu</td>
+    </tr>
+    <tr>
+        <td>...</td>
+        <td>...</td>
     </tr>
 </table>
