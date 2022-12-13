@@ -15,6 +15,7 @@
 <hr />
 
 <h2>Setup Environment</h2>
+<strong>Libraries</strong>
 <p>Python 3.10</p>
 <p>Tensorflow 2.9.1</p>
 <p>Keras 2.9.0</p>
@@ -22,3 +23,5 @@
 <p>Numpy 1.22.4</p>
 <p>FastAPI 0.79.1</p>
 <p>Uvicorn 0.18.2</p>
+<strong>Install Libraries</strong>
+<p>pip install -r requirements.txt</p>

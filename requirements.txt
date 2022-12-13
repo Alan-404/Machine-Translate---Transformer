@@ -1,0 +1,5 @@
+tensroflow==2.9.1
+scikit-learn==1.1.1
+numpy==1.22.4
+fastapi==0.79.1
+uvicorn==0.18.2
