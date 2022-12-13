@@ -14,7 +14,7 @@
 <p><strong>ID: </strong> 19110302</p>
 <hr />
 
-<h2>Setup Environment</h2>
+<h2>1. Setup Environment</h2>
 <strong>Libraries: </strong>
 <p>Python 3.10</p>
 <p>Tensorflow 2.9.1</p>
@@ -27,7 +27,7 @@
 pip install -r requirements.txt
 
 <hr />
-<h2>Setup Dataset</h2>
+<h2>2. Setup Dataset</h2>
 <p>We need to have 2 file about input language and target language for training model</p>
 <p>For Example: </p>
 <table>
