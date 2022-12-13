@@ -34,7 +34,7 @@ pip install -r requirements.txt
     <th>
         <td>input_language.txt</td>
         <td>target_language.txt</td>
-    </td>
+    </th>
     <tr>
         <td>love</td>
         <td>yêu</td>
