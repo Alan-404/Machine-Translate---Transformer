@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 <hr />
 <h2>2. Setup Dataset</h2>
-<p>We need to have 2 file about input language and target language for training model</p>
+<p>We need to have 2 file about <strong>input language</strong> and <strong>target language</strong> for training model</p>
 <p>For Example: </p>
 <table>
     <tr>
@@ -40,3 +40,6 @@ pip install -r requirements.txt
         <td>yêu</td>
     </tr>
 </table>
+
+
+<h2>3. </h2>
