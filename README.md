@@ -7,7 +7,7 @@
 
 <p><strong>Topic: </strong>Research About Transformer Architecture and Build a Simple Application</p>
 <div align="center">
-    <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png"/>
+    <img style="width:250px; height: 400px;" src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png"/>
 </div>
 <p><strong>Intructor: </strong> TS. Trần Nhật Quang</p>
 <p><strong>Student: </strong> Nguyễn Đức Trí</p>
